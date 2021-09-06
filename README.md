@@ -11,3 +11,5 @@
 ![Vertex collapse](/vertexcolapse.JPG)
 
 ![Corner collapse](/cornercolapse.JPG)
+
+![Corner collapse](/crosscolapse.JPG)
