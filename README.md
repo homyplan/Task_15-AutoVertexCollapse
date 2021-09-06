@@ -12,4 +12,4 @@
 
 ![Corner collapse](/cornercolapse.JPG)
 
-![Corner collapse](/crosscolapse.JPG)
+![Cross collapse](/crosscolapse.JPG)
