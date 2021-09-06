@@ -7,3 +7,5 @@
 - removing vertices should happen automatically when straight wall/line consist of more then two vertices.
 
 ![Vertex collapse](/vertexcolapse.JPG)
+
+![Corner collapse](/cornercolapse.JPG)
