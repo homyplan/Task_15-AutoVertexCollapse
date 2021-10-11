@@ -7,6 +7,7 @@
 - removing vertices should happen automatically when straight wall/line consist of more then two vertices.
 - colapsing should work on wall creation, as well as on shifting vertices (from an angled walls to straight line)
 - colapse functionality should work wit removing cossing wall as well
+- collapsing action should trigger on every click during wall creation (wall segments chain)
 
 ![Vertex collapse](/vertexcolapse.JPG)
 
